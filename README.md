@@ -212,7 +212,7 @@ pkg update && pkg upgrade
 pkg install python git
 
 # Clone repository
-git clone https://github.com/yourusername/mechsolver.git
+git clone https://github.com/Adithianps04/MECHSOLVER
 
 # Install Python dependencies
 cd mechsolver
@@ -222,7 +222,7 @@ pip install -r requirements.txt
 ### 🖥️ Desktop Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/mechsolver.git
+git clone https://github.com/Adithianps04/MECHSOLVER
 
 # Create virtual environment
 python -m venv venv
@@ -322,18 +322,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🏢 Industry Standards
 - 📚 Open Source Projects
 
-## 📞 Contact & Support
 
-- 📧 Email: support@mechsolver.org
-- 💬 Discord: [Join our server](https://discord.gg/mechsolver)
-- 🌐 Website: [www.mechsolver.org](https://www.mechsolver.org)
-- 📱 Twitter: [@MechSolver](https://twitter.com/mechsolver)
-
----
 
 <div align="center">
 
-Made with ❤️ by the MechSolver Team
+Made by the ADITHIAN.PS
 
 [⬆ Back to top](#-mechsolver)
 
